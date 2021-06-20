@@ -1,0 +1,29 @@
+{
+    "userChannel": [
+      {"key": "free", "title": "Free"},
+      {"key": "premium", "title": "Premium"}
+    ],
+  
+    "content_filters": [
+      {"key": "cursos", "title": "Cursos"},
+      {"key": "podcasts", "title": "Podcasts"},
+      {"key": "ebooks", "title": "Ebooks"},
+      {"key": "mentoria", "title": "Mentoria"},
+      {"key": "videos", "title": "Vídeos"}
+    ],
+  
+    "content": [
+      {
+        "id": 1,
+        "name": "A Nova Forma de Vender",
+        "about": "Conheça o passo-a-passo da JORNADA DE COMPRA DO CONSUMIDOR",
+        "description": "Vamos entender todo o processo do nosso cliente dentro de uma jornada de compra?",
+        "photo": "https://vemprasmart.com/wp-content/uploads/novaforma.svg",
+        "enviroments": ["ebooks"],
+        "acess": "PREMIUM",
+        "price": "R$ 99,90",
+        "type": "Ebook"
+      }
+    ]
+  }
+  

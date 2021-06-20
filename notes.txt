@@ -1,0 +1,7 @@
+expo install expo-font @expo-google-fonts/inter
+yarn add axios
+expo install @react-native-async-storage/async-storage
+expo install expo-app-loading
+yarn add react-native-screens
+expo install react-native-gesture-handler
+expo install expo-linear-gradient
